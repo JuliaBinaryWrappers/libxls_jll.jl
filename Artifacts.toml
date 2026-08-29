@@ -1,143 +1,160 @@
 [[libxls]]
 arch = "aarch64"
-git-tree-sha1 = "ca0e731d11c697f06d61948cd9af297f2ecb6c0d"
+git-tree-sha1 = "1892c7c02c852c696ead3a2e8c400294165bfb9d"
 os = "macos"
 
     [[libxls.download]]
-    sha256 = "5ffb900e8a470e9b3cc738a86ad45e7cc13014dec134e37104f868e90721c345"
-    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.2+0/libxls.v1.6.2.aarch64-apple-darwin.tar.gz"
+    sha256 = "c682052ff7555b23fb47faf9b7ee74ddf0595cc6a1ed886a79f02ac34c559e5a"
+    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.3+0/libxls.v1.6.3.aarch64-apple-darwin.tar.gz"
 [[libxls]]
 arch = "aarch64"
-git-tree-sha1 = "ecf6799c4dbfcad10ca6f6655b6335c4ccbfb370"
+git-tree-sha1 = "69cb95a7c1fd39e303c172204d78fccd752e5686"
 libc = "glibc"
 os = "linux"
 
     [[libxls.download]]
-    sha256 = "175bec3beeb484dea797483e25854a25a8c8b12554a0c36515d6cb72613b14ff"
-    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.2+0/libxls.v1.6.2.aarch64-linux-gnu.tar.gz"
+    sha256 = "87c35e99bb5d30c865683bda5d58f4fed5934aafe0767a88c654cbedea697014"
+    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.3+0/libxls.v1.6.3.aarch64-linux-gnu.tar.gz"
 [[libxls]]
 arch = "aarch64"
-git-tree-sha1 = "555de5c17a0813b57f3ad5ab12dea8f3f63f1a90"
+git-tree-sha1 = "44e14b0ecb2d1c03fdbb0fda4b40b77368fc32c4"
 libc = "musl"
 os = "linux"
 
     [[libxls.download]]
-    sha256 = "e6ddc16d4bcaafc55eb807e156f7f6fa5dd2c796e608b262c4d82e328725a1aa"
-    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.2+0/libxls.v1.6.2.aarch64-linux-musl.tar.gz"
+    sha256 = "9ab590ffcaeca9bba6e616a5fb691f31cc4fc1f79306a884c523f9802553b103"
+    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.3+0/libxls.v1.6.3.aarch64-linux-musl.tar.gz"
 [[libxls]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "f1b8cd59ff0509c3618a319f14c93f56ebb1bd3b"
-libc = "glibc"
-os = "linux"
-
-    [[libxls.download]]
-    sha256 = "b99bfbddaf61301ee95ac332b174355c392f18ece889b9c1dd6bd93fe25692ed"
-    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.2+0/libxls.v1.6.2.armv6l-linux-gnueabihf.tar.gz"
-[[libxls]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "e5de098bf4020d8cd76cc023bb722f483f14660a"
-libc = "musl"
-os = "linux"
-
-    [[libxls.download]]
-    sha256 = "55bd00171a979baf8c3c57b2292236c0d089825361f28a342d06d8f5fb237180"
-    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.2+0/libxls.v1.6.2.armv6l-linux-musleabihf.tar.gz"
-[[libxls]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "8362e295bdba1aec088d591ce4484012721fc62f"
-libc = "glibc"
-os = "linux"
-
-    [[libxls.download]]
-    sha256 = "50a3e830e9bde9ac2cacb236e9c7a3baed1099ece204913c322026c10941c00f"
-    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.2+0/libxls.v1.6.2.armv7l-linux-gnueabihf.tar.gz"
-[[libxls]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "6edaa28fbd260338d738c82f230f1b4664379c53"
-libc = "musl"
-os = "linux"
-
-    [[libxls.download]]
-    sha256 = "8451324ae136c297c9a098b0de14c7c701c267d852d01d93abd5afd9a3ff7c30"
-    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.2+0/libxls.v1.6.2.armv7l-linux-musleabihf.tar.gz"
-[[libxls]]
-arch = "i686"
-git-tree-sha1 = "14869e668267499762a15b057547a4a52e6d039b"
-libc = "glibc"
-os = "linux"
-
-    [[libxls.download]]
-    sha256 = "180a5b8fb56e989b8779f873f44ed62a3ade9df7ec4cff28d1691f8eef776145"
-    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.2+0/libxls.v1.6.2.i686-linux-gnu.tar.gz"
-[[libxls]]
-arch = "i686"
-git-tree-sha1 = "0e16e7c0b90fd5c7cff75d55ae2a3070f8b409fb"
-libc = "musl"
-os = "linux"
-
-    [[libxls.download]]
-    sha256 = "6b49d0cb1e9338c6fc682d3b71ca93ab553fc76903d955d94c50fab9b2c54a42"
-    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.2+0/libxls.v1.6.2.i686-linux-musl.tar.gz"
-[[libxls]]
-arch = "i686"
-git-tree-sha1 = "b47600e2aca1f117c89bad97d34a620bd6ee5e30"
-os = "windows"
-
-    [[libxls.download]]
-    sha256 = "05590f7a7816a1121e7238cdea84aa403f8e1dd4b682a778fe6a7e32ef5831ec"
-    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.2+0/libxls.v1.6.2.i686-w64-mingw32.tar.gz"
-[[libxls]]
-arch = "powerpc64le"
-git-tree-sha1 = "567a073095e773e1a49016aa4e1aab6538f7e6ba"
-libc = "glibc"
-os = "linux"
-
-    [[libxls.download]]
-    sha256 = "f62490f1a2cec48e4ca866f6ecb5ec94d0a0d39c15ea7411c213ed23ff93002c"
-    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.2+0/libxls.v1.6.2.powerpc64le-linux-gnu.tar.gz"
-[[libxls]]
-arch = "x86_64"
-git-tree-sha1 = "a795cb1add116aee2fd76f8ca7cccaae188c11ae"
-os = "macos"
-
-    [[libxls.download]]
-    sha256 = "f721c90b442d240477bca4dd66686fba62830e718b1bb3654ca8c454476da8da"
-    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.2+0/libxls.v1.6.2.x86_64-apple-darwin.tar.gz"
-[[libxls]]
-arch = "x86_64"
-git-tree-sha1 = "dd3c443db40273362a1f2811f34e422c3d9d3ae3"
-libc = "glibc"
-os = "linux"
-
-    [[libxls.download]]
-    sha256 = "1662f387f96a49ae9634ae2cd93ec6f3ca532fb0e5c9c6fb8f305fd4ab6f4d77"
-    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.2+0/libxls.v1.6.2.x86_64-linux-gnu.tar.gz"
-[[libxls]]
-arch = "x86_64"
-git-tree-sha1 = "251ea23d94e2436fea92e854addb6734f4f28561"
-libc = "musl"
-os = "linux"
-
-    [[libxls.download]]
-    sha256 = "26b15278559392729d22c2419b021b14a99aa10f2f94d946577aebafbefa91f1"
-    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.2+0/libxls.v1.6.2.x86_64-linux-musl.tar.gz"
-[[libxls]]
-arch = "x86_64"
-git-tree-sha1 = "1c306f5bc10ff335763e20f1aeebc529742945a0"
+arch = "aarch64"
+git-tree-sha1 = "3b03a12beb783c80dbd4a8012a844a6dd1399987"
 os = "freebsd"
 
     [[libxls.download]]
-    sha256 = "69af7d8fdd45cd189bf7fff2485a427a2523a5c4966410544902958305c826db"
-    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.2+0/libxls.v1.6.2.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "e3d48a7c0c5be576365743c427f329c7cef7eae2e2d5399df463cfab2923356e"
+    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.3+0/libxls.v1.6.3.aarch64-unknown-freebsd.tar.gz"
 [[libxls]]
-arch = "x86_64"
-git-tree-sha1 = "d82ca131d7feae54dcd0b39d7536bd12fedc9042"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "75d452b7304450005b8915efa32ea56f9d5799f9"
+libc = "glibc"
+os = "linux"
+
+    [[libxls.download]]
+    sha256 = "7afb1c3bd66d96bc6b9f8dfa985413bb2dff9dda6a3bed2529807905402f4589"
+    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.3+0/libxls.v1.6.3.armv6l-linux-gnueabihf.tar.gz"
+[[libxls]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0cd1925d70221220716dbeedc5e7859adef6651c"
+libc = "musl"
+os = "linux"
+
+    [[libxls.download]]
+    sha256 = "550e11afafcc6d66706d547e48d5c07ef388d61ca3f4e0155fab407d0ef13bf7"
+    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.3+0/libxls.v1.6.3.armv6l-linux-musleabihf.tar.gz"
+[[libxls]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "cfb3d87a136b2259a2266a155a432ca4be3086f4"
+libc = "glibc"
+os = "linux"
+
+    [[libxls.download]]
+    sha256 = "57589a692eb05d078ab6c83003cf57afe0bf8ed5c8ecc9dd255d4e90934c0014"
+    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.3+0/libxls.v1.6.3.armv7l-linux-gnueabihf.tar.gz"
+[[libxls]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ae5c24f787486e84215e3a5f2179897ac3187b88"
+libc = "musl"
+os = "linux"
+
+    [[libxls.download]]
+    sha256 = "1d17b4a967bf9403e30e1a862f06c2d97c2386a5236ad41f6df4c89d66116fe7"
+    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.3+0/libxls.v1.6.3.armv7l-linux-musleabihf.tar.gz"
+[[libxls]]
+arch = "i686"
+git-tree-sha1 = "0d476eff389d39fe941dcdde1f49e72bfc36d1a2"
+libc = "glibc"
+os = "linux"
+
+    [[libxls.download]]
+    sha256 = "a7c95ec7639efab2fef3a7a81abebddd2b324913aa8702df75c56c7cce89f51c"
+    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.3+0/libxls.v1.6.3.i686-linux-gnu.tar.gz"
+[[libxls]]
+arch = "i686"
+git-tree-sha1 = "10d2520f037a6a9b65705d4e5c8d71d1ca267f86"
+libc = "musl"
+os = "linux"
+
+    [[libxls.download]]
+    sha256 = "0c11b629eea1a8927087bc2264a025a673f97cf9889d25ca6aa1de774bfea439"
+    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.3+0/libxls.v1.6.3.i686-linux-musl.tar.gz"
+[[libxls]]
+arch = "i686"
+git-tree-sha1 = "23af037ad8170a142e59143d897e6a0bf3b0488c"
 os = "windows"
 
     [[libxls.download]]
-    sha256 = "a17edc11281d16fd375637b269cec62f08ebde8e145693b2cf4e0a0a22296be8"
-    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.2+0/libxls.v1.6.2.x86_64-w64-mingw32.tar.gz"
+    sha256 = "b6a96af6c9d1b2140cb6bb4c558a2b7e6813fbb4a6d5579d9a6b09146a7113a6"
+    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.3+0/libxls.v1.6.3.i686-w64-mingw32.tar.gz"
+[[libxls]]
+arch = "powerpc64le"
+git-tree-sha1 = "21a3c448ecdb0c0f5b6f80e479a91e8098265167"
+libc = "glibc"
+os = "linux"
+
+    [[libxls.download]]
+    sha256 = "c34704123eb1e95c71ad84a8454f88d0bc59262d02e95db49ad1bfcedb4f7fa5"
+    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.3+0/libxls.v1.6.3.powerpc64le-linux-gnu.tar.gz"
+[[libxls]]
+arch = "riscv64"
+git-tree-sha1 = "f5673295253a13b78792af14b41ead5b207428e9"
+libc = "glibc"
+os = "linux"
+
+    [[libxls.download]]
+    sha256 = "487a106951fa07d454389415806c7b532b9348c5690404e8d853c51cad1b070b"
+    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.3+0/libxls.v1.6.3.riscv64-linux-gnu.tar.gz"
+[[libxls]]
+arch = "x86_64"
+git-tree-sha1 = "de991af49cb77d9893d41cfe5d9cc248826b95a4"
+os = "macos"
+
+    [[libxls.download]]
+    sha256 = "0a438147bc2b581433266ea7397dcf6633f5a90874ccc04c5bfe216817a6470b"
+    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.3+0/libxls.v1.6.3.x86_64-apple-darwin.tar.gz"
+[[libxls]]
+arch = "x86_64"
+git-tree-sha1 = "edda3e3f7ce0cf846b1d23bc52e44f435c67add1"
+libc = "glibc"
+os = "linux"
+
+    [[libxls.download]]
+    sha256 = "396b77a1ca4f26fc62c012903058f621739ec8093b4baa9ac5712e2cb08689f1"
+    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.3+0/libxls.v1.6.3.x86_64-linux-gnu.tar.gz"
+[[libxls]]
+arch = "x86_64"
+git-tree-sha1 = "0c99bae66b4ac2341bc85089d9606e0632bfe6fa"
+libc = "musl"
+os = "linux"
+
+    [[libxls.download]]
+    sha256 = "ee9eaf2eedccf3fa1b5e7b300fe9182d44fceaba7271a8a6b1e05debcb631869"
+    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.3+0/libxls.v1.6.3.x86_64-linux-musl.tar.gz"
+[[libxls]]
+arch = "x86_64"
+git-tree-sha1 = "8b567ce5fe94bb08e916c1de0232fae592ae3ad3"
+os = "freebsd"
+
+    [[libxls.download]]
+    sha256 = "39d89e8e194778decf1612579d4801a186eb0c65f161ab048bca7508413cd14c"
+    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.3+0/libxls.v1.6.3.x86_64-unknown-freebsd.tar.gz"
+[[libxls]]
+arch = "x86_64"
+git-tree-sha1 = "f850a4c910002fe28c5df37bf31ac66bf69c977d"
+os = "windows"
+
+    [[libxls.download]]
+    sha256 = "9160d0ece7819e35221c88783b3923e65e402df11e85b8735a0cf2fe1b65b91a"
+    url = "https://github.com/JuliaBinaryWrappers/libxls_jll.jl/releases/download/libxls-v1.6.3+0/libxls.v1.6.3.x86_64-w64-mingw32.tar.gz"
